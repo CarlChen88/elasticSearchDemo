@@ -7,4 +7,7 @@ package com.cx;
  * @createTime 2022-05-21 21:35:35
  */
 public class ElasticSearchApplication {
+    public static void main(String[] args) {
+
+    }
 }
